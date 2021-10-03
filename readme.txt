@@ -1,0 +1,1 @@
+The game engine was created for the Programming in C and C++ course during the fall term of 2020
